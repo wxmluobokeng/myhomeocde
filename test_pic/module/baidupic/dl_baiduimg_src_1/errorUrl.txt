@@ -1,0 +1,72 @@
+
+抛出异常： http://s10.stb001.cn/ftp_product_img/cn3000028914EA_1_xnl.jpg?t=201709101850
+HTTPConnectionPool(host='s10.stb001.cn', port=80): Max retries exceeded with url: /ftp_product_img/cn3000028914EA_1_xnl.jpg?t=201709101850 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000D793F60>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+404： http://img001.hc360.cn/hb/MTQ1OTk1MDI3NzE1OS0xMjUyMzA2Nzgz.jpg
+抛出异常： http://www.1-eye.cn/img.php?img0.pconline.com.cn/pconline/1612/16/8674240_2_thumb.png
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+404： http://www.beiwokanshu.com/wp-content/uploads/2019/03/20190313080506-2.jpg
+无法打开图片： http://pic.lshou.com/pic/img.alicdn.com/imgextra/i2/2457380298/TB2Kf5acFXXXXcqXpXXXXXXXXXX_%21%212457380298.jpg_310x310.jpg
+无法打开图片： http://www.cctime.com/upLoadFile/2018/12/11/20181211154338734.png
+无法打开图片： http://ztd00.photos.bdimg.com/ztd/w=700;q=50/sign=73225680c2ef76093c0b9b9f1ee6d2f1/ac4bd11373f082022579c32242fbfbedaa641bc7.jpg
+抛出异常： http://www.anyolife.com/images/products/additional/337386_View_1.jpg
+HTTPSConnectionPool(host='www.anyolife.com', port=443): Max retries exceeded with url: /images/products/additional/337386_View_1.jpg (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:777)'),))
+404： http://img5.pcpop.com/ArticleImages/730x547/3/3479/003479945.jpg
+404： http://gw.alicdn.com/imgextra/i1/508359071/T2yfbQXoJXXXXXXXXX_%21%21508359071.jpg
+无法打开图片： http://ztd00.photos.bdimg.com/ztd/w=700;q=50/sign=cb113e6f13d5ad6eaaf966eab1f048e6/d8f9d72a6059252dcd2018af3c9b033b5bb5b961.jpg
+404： http://cdn.k618img.cn/news.k618.cn/tech/201709/W020170919564110775767.jpg
+404： http://pic.big5.enorth.com.cn/0/12/09/56/12095691_996786.jpg
+404： http://img.alicdn.com/imgextra/i3/1642043431/TB20P0Nvm8mpuFjSZFMXXaxpVXa_%21%211642043431.jpg
+抛出异常： http://www.gardenson.cn/img.php?www.16rd.com/data/attachment/forum/201511/18/104751ae7qyly1k1j7jigq.png
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+抛出异常： http://www.t-jiaju.com/tujjJDEwLmFsaWNkbi5jb20vYmFvL3VwbG9hZGVkL2k0LzMzNjI0NzU5MDEvTzFDTjAxMXRTaGVIQ1BqSUI1SnJPXyEhMzM2MjQ3NTkwMSQ5.jpg
+("Connection broken: ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)", ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+无法打开图片： http://www.daogo123.com/uploads/allimg/170420/1449523-1F420112254E5.png
+抛出异常： http://download.img.dns4.cn/pic/117899/p15/20170427094714_3667_zs_sy.jpg
+'content-type'
+抛出异常： http://www.t-nan.com/tutnJDEwLmFsaWNkbi5jb20vYmFvL3VwbG9hZGVkL2kyLzIwNjc1NjQyODkvTzFDTjAxQUk5VElSMWhZUENNd0xFN1NfISEyMDY3NTY0Mjg5JDk.jpg
+("Connection broken: ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)", ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+404： http://image01.71.net/image01/36/44/36/60/f89bb8e2-8715-4fbb-a861-7667f3daa8cd.jpg
+抛出异常： http://www.178hui.com/upload/2016/1007/18321273709.jpg
+HTTPConnectionPool(host='www.178hui.com', port=80): Max retries exceeded with url: /upload/2016/1007/18321273709.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006CB9DD8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+抛出异常： http://china168.hk/res/2016/12-09/10/59efdc614ec4f410e379075c5b13ea3c.jpg
+HTTPSConnectionPool(host='china168.hk', port=443): Read timed out.
+抛出异常： http://www.t-jiaju.com/tujjJDAwNCQxNC8xMjg2MDAyNjgvVEIyU2l2cGFwJDZhMCQ2JDYkNl8hITEyODYwMDI2OCQ5.jpg
+("Connection broken: ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)", ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+抛出异常： http://baoliao.178hui.com/upload/2015/1121/10141291232.jpg
+HTTPConnectionPool(host='baoliao.178hui.com', port=80): Max retries exceeded with url: /upload/2015/1121/10141291232.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006A5B940>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+无法打开图片： http://img1.xungou.com/20180331/proimage/1522466564436/297772-1522466564437.jpg
+404： http://img.qq7c.com/uploads/img_2191610936B1172745526_11.jpg
+无法打开图片： http://ztd00.photos.bdimg.com/ztd/w=700;q=50/sign=d20b23f65dfbb2fb342b5a127f715199/b03533fa828ba61e2336e3844934970a314e5944.jpg
+抛出异常： http://download.img.dns4.cn/pic/148866/p9/20160820170502_1708_zs_sy.jpg?183*183
+'content-type'
+抛出异常： http://www.t-chs.com/tuhsJDAzJDIxLzE3OTk5MzkxNjQvVEIxbUdtNmI0ckk4S0pqeTBGcFhYYjVoVlhhXyEhJDM.jpg
+HTTPConnectionPool(host='www.t-chs.com', port=80): Read timed out.
+抛出异常： http://s8.rr.itc.cn/r/wapChange/201512_11_17/a5febc5614354342352.jpg
+HTTPConnectionPool(host='s8.rr.itc.cn', port=80): Read timed out. (read timeout=15)
+抛出异常： http://www.5jjc.net/tu5jJDEwLmFsaWNkbi5jb20vaTEvNDcwMTY4OTg0L1RCMmRPYlZiLi5peUtKankxWGJYWGM0Y1hYYV8hITQ3MDE2ODk4NC5wbmc.jpg
+("Connection broken: ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)", ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+抛出异常： http://cimg1.fopaith.com.cn/47/47f473e2fb3dbeb866598091f173e68f.jpg?x-oss-process=image/resize,m_pad,w_238,h_160,color_FFFFFF/sharpen,100
+HTTPConnectionPool(host='cimg1.fopaith.com.cn', port=80): Max retries exceeded with url: /47/47f473e2fb3dbeb866598091f173e68f.jpg?x-oss-process=image/resize,m_pad,w_238,h_160,color_FFFFFF/sharpen,100 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006CB3978>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+抛出异常： http://www.t-chs.com/tuhsJDEwLmFsaWNkbi5jb20vYmFvL3VwbG9hZGVkL2k0LzIyMTk3MDEzOTkvVEIyaDNZS3ZtdFlCZU5qU3Nwa1hYYlU4VlhhXyEhMjIxOTcwMTM5OSQ5.jpg
+("Connection broken: ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)", ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+404： http://images.qianlong.com/mmsource/imghylanda/20140422/50/11216747921525189698.jpg
+抛出异常： http://m.yiper.cn/app-moible/stock2/images/dc/ba/dcba0b0aadbe9b15d95f62d5e232d41f.jpg
+HTTPConnectionPool(host='m.yiper.cn', port=80): Max retries exceeded with url: /app-moible/stock2/images/dc/ba/dcba0b0aadbe9b15d95f62d5e232d41f.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CA908>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+抛出异常： http://www.t-chs.com/tuhsJDEwLmFsaWNkbi5jb20vdGZzY29tL2k0Lzg0OTA4NjQ5My9UQjJxdmJhY2VPU0J1Tmp5MEZkWFhiRG5WWGFfISE4NDkwODY0OTMkOQ.jpg
+("Connection broken: ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)", ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+抛出异常： http://i3.ymfile.com/uploads/album/09/30/z1_1.1412058868_790_334_122991.gif
+HTTPConnectionPool(host='i3.ymfile.com', port=80): Max retries exceeded with url: /uploads/album/09/30/z1_1.1412058868_790_334_122991.gif (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000000006CB9048>, 'Connection to i3.ymfile.com timed out. (connect timeout=15)'))
+404： http://i4.hexunimg.cn/2016-06-13/184350305.jpg
+404： http://img2.zhizhizhi.com/ggd/2018/02/23-2cxhqoah3zf-574888.jpg
+404： http://bmp.skxox.com/import.jpg?u=http%3a%2f%2fi2.article.fd.pchome.net%2ft_500x375%2fg1%2fM00%2f12%2f1E%2fooYBAFcLdg-ITbD1AAVqorR8S8cAAC4kwIkUL4ABWq6068.png&k=3C0DA849C0F3FA42BE3D1FC030A9A9CB56012B9
+抛出异常： http://www.sydiaocha.cn/img.php?img54.jc35.com/9/20160519/635992510773733350612.jpg
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+抛出异常： http://www.t-biao.com/tubiaoJDAwMiQxMi80MjA3MjI0NjYvVEIyeXFYbGMkNlhjSSQ2JDYkNl8hITQyMDcyMjQ2NiQ5.jpg
+HTTPConnectionPool(host='www.t-biao.com', port=80): Max retries exceeded with url: /tubiaoJDAwMiQxMi80MjA3MjI0NjYvVEIyeXFYbGMkNlhjSSQ2JDYkNl8hITQyMDcyMjQ2NiQ5.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000000000676AD68>, 'Connection to www.t-biao.com timed out. (connect timeout=15)'))
+抛出异常： http://www.zhuajg.com/extension/2018-07-11/httpwww.bxzfz.comwpcontentuploads20180711.jpg
+HTTPConnectionPool(host='www.zhuajg.com', port=80): Max retries exceeded with url: /extension/2018-07-11/httpwww.bxzfz.comwpcontentuploads20180711.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000006CB7F98>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+抛出异常： http://vehevtt.cn/images/201505/goods_img/334_P_1432536974072.jpg
+HTTPConnectionPool(host='vehevtt.cn', port=80): Max retries exceeded with url: /images/201505/goods_img/334_P_1432536974072.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003C542B0>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+无法打开图片： http://wap.yesky.com/uploadImages/2015/351/36/5Q9G2226J3M8.png
+抛出异常： http://www.t-chs.com/tuhsJDEwLmFsaWNkbi5jb20vdGZzY29tL2kzLzI5NTI5MTY3NDMvVEIybE1UZG1ZMVlCdU5qU3N6aFhYY1VzRlhhXyEhMjk1MjkxNjc0MyQ5.jpg
+("Connection broken: ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)", ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))

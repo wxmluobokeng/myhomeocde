@@ -1,0 +1,206 @@
+{
+    "北京": [
+        "华北",
+        "beijing",
+        "  ",
+        "http://www.weather.com.cn/textFC/beijing.shtml"
+    ],
+    "天津": [
+        "华北",
+        "tianjin",
+        "T",
+        "http://www.weather.com.cn/textFC/tianjin.shtml"
+    ],
+    "河北": [
+        "华北",
+        "hebei",
+        "H",
+        "http://www.weather.com.cn/textFC/hebei.shtml"
+    ],
+    "山西": [
+        "华北",
+        "shanxi",
+        "S",
+        "http://www.weather.com.cn/textFC/shanxi.shtml"
+    ],
+    "内蒙古": [
+        "华北",
+        "neimenggu",
+        "N",
+        "http://www.weather.com.cn/textFC/neimenggu.shtml"
+    ],
+    "黑龙江": [
+        "东北",
+        "heilongjiang",
+        "H",
+        "http://www.weather.com.cn/textFC/heilongjiang.shtml"
+    ],
+    "吉林": [
+        "东北",
+        "jilin",
+        "J",
+        "http://www.weather.com.cn/textFC/jilin.shtml"
+    ],
+    "辽宁": [
+        "东北",
+        "liaoning",
+        "L",
+        "http://www.weather.com.cn/textFC/liaoning.shtml"
+    ],
+    "上海": [
+        "华东",
+        "shanghai",
+        "S",
+        "http://www.weather.com.cn/textFC/shanghai.shtml"
+    ],
+    "安徽": [
+        "华东",
+        "anhui",
+        "A",
+        "http://www.weather.com.cn/textFC/anhui.shtml"
+    ],
+    "江苏": [
+        "华东",
+        "jiangsu",
+        "J",
+        "http://www.weather.com.cn/textFC/jiangsu.shtml"
+    ],
+    "山东": [
+        "华东",
+        "shandong",
+        "S",
+        "http://www.weather.com.cn/textFC/shandong.shtml"
+    ],
+    "浙江": [
+        "华东",
+        "zhejiang",
+        "Z",
+        "http://www.weather.com.cn/textFC/zhejiang.shtml"
+    ],
+    "福建": [
+        "华东",
+        "fujian",
+        "F",
+        "http://www.weather.com.cn/textFC/fujian.shtml"
+    ],
+    "江西": [
+        "华东",
+        "jiangxi",
+        "J",
+        "http://www.weather.com.cn/textFC/jiangxi.shtml"
+    ],
+    "湖北": [
+        "华中",
+        "hubei",
+        "H",
+        "http://www.weather.com.cn/textFC/hubei.shtml"
+    ],
+    "湖南": [
+        "华中",
+        "hunan",
+        "H",
+        "http://www.weather.com.cn/textFC/hunan.shtml"
+    ],
+    "河南": [
+        "华中",
+        "henan",
+        "H",
+        "http://www.weather.com.cn/textFC/henan.shtml"
+    ],
+    "广西": [
+        "华南",
+        "guangxi",
+        "G",
+        "http://www.weather.com.cn/textFC/guangxi.shtml"
+    ],
+    "广东": [
+        "华南",
+        "guangdong",
+        "G",
+        "http://www.weather.com.cn/textFC/guangdong.shtml"
+    ],
+    "海南": [
+        "华南",
+        "hainan",
+        "H",
+        "http://www.weather.com.cn/textFC/hainan.shtml"
+    ],
+    "陕西": [
+        "西北",
+        "shan-xi",
+        "S",
+        "http://www.weather.com.cn/textFC/shan-xi.shtml"
+    ],
+    "甘肃": [
+        "西北",
+        "gansu",
+        "G",
+        "http://www.weather.com.cn/textFC/gansu.shtml"
+    ],
+    "新疆": [
+        "西北",
+        "xinjiang",
+        "X",
+        "http://www.weather.com.cn/textFC/xinjiang.shtml"
+    ],
+    "青海": [
+        "西北",
+        "qinghai",
+        "Q",
+        "http://www.weather.com.cn/textFC/qinghai.shtml"
+    ],
+    "宁夏": [
+        "西北",
+        "ningxia",
+        "N",
+        "http://www.weather.com.cn/textFC/ningxia.shtml"
+    ],
+    "四川": [
+        "西南",
+        "sichuan",
+        "S",
+        "http://www.weather.com.cn/textFC/sichuan.shtml"
+    ],
+    "重庆": [
+        "西南",
+        "chongqing",
+        "C",
+        "http://www.weather.com.cn/textFC/chongqing.shtml"
+    ],
+    "贵州": [
+        "西南",
+        "guizhou",
+        "G",
+        "http://www.weather.com.cn/textFC/guizhou.shtml"
+    ],
+    "云南": [
+        "西南",
+        "yunnan",
+        "Y",
+        "http://www.weather.com.cn/textFC/yunnan.shtml"
+    ],
+    "西藏": [
+        "西南",
+        "xizang",
+        "X",
+        "http://www.weather.com.cn/textFC/xizang.shtml"
+    ],
+    "香港": [
+        "港澳台",
+        "hongkong",
+        "港澳台",
+        "http://www.weather.com.cn/textFC/hongkong.shtml"
+    ],
+    "澳门": [
+        "港澳台",
+        "macao",
+        "港澳台",
+        "http://www.weather.com.cn/textFC/macao.shtml"
+    ],
+    "台湾": [
+        "港澳台",
+        "taiwan",
+        "港澳台",
+        "http://www.weather.com.cn/textFC/taiwan.shtml"
+    ]
+}
